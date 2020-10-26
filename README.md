@@ -1,4 +1,4 @@
-# data-science-contenst
+# data-science-contest
 # question 1 (sales forecast):
 One of our constant challenges is to forecast sales of different products at different time intervals. This prediction is important in several ways; The most important of these are helping sellers to have different products available, which will maximize profitability to the seller goods, and help not to delay the delivery of customer orders. In this case, the sales data of the last 5 years will be provided to you for 50 different sellers. You can download this data from the link below. (data is available in q1 directory!)
 
